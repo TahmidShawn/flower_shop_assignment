@@ -16,6 +16,10 @@
     cursor: pointer;
 }
 
+.btn:hover{
+    background-color: #e22951;
+}
+
 .main_title {
     width: 33%;
     text-align: center;
